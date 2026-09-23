@@ -11,6 +11,8 @@ A Typora theme for writing Markdown with a LaTeX-like look. Numbered headings, c
   <img src="figs/ex_1.png" width="85%">
 </p>
 
+remark: The new version removed the default indent before paragraphs.
+
 ## Features
 
 - Numbered headings (h2–h4 auto-numbered, h5/h6 paragraph-style)
