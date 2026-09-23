@@ -1,4 +1,4 @@
-# BetterNote — Typora CSS Theme
+# BetterNote — Typora Theme
 
 A Typora theme for writing Markdown with a LaTeX-like look. Numbered headings, colored callout blocks, three-line tables, and math-friendly typography.
 
@@ -19,7 +19,7 @@ remark: The new version removed the default indent before paragraphs.
 - Colored callout blocks: Tip (blue), Warning (red), Reminder (orange), Example (green)
 - Three-line table styling
 - Math-friendly font sizing
-- Print-ready page breaks and margins
+- Print-ready margins
 
 ## Quick Start
 
